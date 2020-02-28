@@ -20,6 +20,6 @@ if ( authorization ) {
     }
   });
 } else {
-  res.status(400).json({ message: "no/wrong credentials provided" })
+  res.status(400).json({ message: "no or wrong credentials provided" })
 }
 };

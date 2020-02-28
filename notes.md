@@ -12,3 +12,5 @@
 11. POST register ✅ | POST login ✅
     "message": "Welcome jess!",
     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWJqZWN0IjoxLCJ1c2VybmFtZSI6Implc3MiLCJyb2xlIjoidXNlciIsImlhdCI6MTU4MjkxMzc3OCwiZXhwIjoxNTgyOTE3Mzc4fQ.hVjLlbgkn3BThlszUV1cPGneugaW-hY2XfZ3IE-MXvM"
+
+12. Added `jest supertest cross-env`

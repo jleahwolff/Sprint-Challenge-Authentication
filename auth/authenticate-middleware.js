@@ -15,7 +15,7 @@ if ( authorization ) {
     if (err) {
       res.status(401).json({ you: 'No entry!' });
     } else {
-      // req.decodedToken = decodedToken;
+      req.decodedToken = decodedToken;
       next();
     }
   });

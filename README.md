@@ -43,8 +43,9 @@ Demonstrate your understanding of this week's concepts by answering the followin
 - [ ] What does bcrypt do to help us store passwords in a secure manner.
 
 - [ ] What does bcrypt do to slow down attackers?
-
+    Hash passwords
 - [ ] What are the three parts of the JSON Web Token?
+
 
 ## Minimum Viable Product
 
